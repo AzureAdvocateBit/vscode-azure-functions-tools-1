@@ -1,7 +1,7 @@
 # [DEPRECATED] Azure Functions Tools - Extensions for VS Code
  Azure Functions Tools - Extensions for VS Code
 
-> NOTE: This extension is deprecated. Please use [this Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) instead.
+> NOTE: This extension is deprecated. Please use [this Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=javascript-0000-jopapa) instead.
 
 ## Features
 This extension for Visual Studio Code includes:
